@@ -32,6 +32,14 @@ print(x)
 print(z)
 print(y)
 
+# Calcular Raices
+
+
+# Raiz de X
+for i in range(4):
+    raiz_actual = (x[3]-(x[1]*val_inicial_y)*(-x[2]*val_inicial_z))/x[0]
+
+
 # x = [8, 4, -2, 24]
 # y = [3, 6, -1, 13]
 # z = [2, -2, 6, 16]
